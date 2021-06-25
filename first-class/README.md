@@ -17,6 +17,7 @@ In this class introduce our self and talk about the approach of the course:
 
 ## For the next class
 
-- Armar grupos de 3 (podés hacerlo por discord en el channel `#buscando-grupo`) y mandarme integrantes y nombre del grupo a mi mail o por discord.
+- Homework: 
+https://classroom.github.com/classrooms/86362510-solvd-java-course-classroom-2 .
 - Set the enviroment TP-0:
-https://classroom.github.com/a/Ou0-tXaH
+https://classroom.github.com/g/vpO5wQvw .
